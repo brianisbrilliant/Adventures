@@ -9,7 +9,6 @@ You’re on a pirate ship, chained to an oar in the brig. You are one of many pr
 === brig ===
 
 
-
 What will you do?
 
 // break free with sword, cannonball breaks oar, convince the boatswain
