@@ -67,7 +67,8 @@ You climb the ladder towards fire, explosions, clashing swords, and death. Once 
     -> shipdeath
     
 = shipattack 
-+   [Attack] You {~lunge at your opponent, catching him off guard and deciding the fight quickly.-> shipvictory|swing at your opponent. He {blocks, but is thrown off-balance, and unable to counterattack. -> shipattack|deflects your sword, creating an opening and efficiently running you through. -> shipdeath}} 
++   [Attack] 
+    You {~lunge at your opponent, catching him off guard and deciding the fight quickly.-> shipvictory|swing at your opponent. He {blocks, but is thrown off-balance, and unable to counterattack. -> shipattack|deflects your sword, creating an opening and efficiently running you through. -> shipdeath}} -> END
 
 = shipvictory
 The pirate's cutlass skitters across the deck. It's an obvious upgrade to the smaller blade you had, so you retrieve it and toss your old one. 
